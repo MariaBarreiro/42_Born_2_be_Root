@@ -24,7 +24,7 @@
 ## About 📌
 
 Configure your first virtual server: partitioning (LVM+encryption), VM hardening, firewall, SSH, sudo policies, and a monitoring banner.
-I compiled my study and setup details into a mind map: [View here](https://xmind.ai/share/xFYnNbIP)
+I compiled my study and setup details into a mind map: [View here](https://xmind.ai/share/xFUnNbIP)
 
 ---
 
