@@ -14,10 +14,7 @@
 * [Security 🔒](#security)
 * [Monitoring 📊](#monitoring)
 * [Bonus 🏆](#bonus)
-* [Submission 📮](#submission)
 * [Inspired 🚀](#inspired)
-* [Requirements ⚠️](#requirements)
-* [License ©](#license)
 
 ---
 
@@ -76,13 +73,6 @@ Create `monitoring.sh` (bash) to broadcast every 10 min & at startup:
 ## Bonus 🏆
 
 All bonus objectives have been implemented, including additional hardening tasks and automated backups.
-I compiled my study and setup details into a mind map: [View here](https://xmind.ai/share/xFYnNbIP)
-
----
-
-## Submission 📮
-
-Include only `signature.txt` at repo root with your VM’s VDI/QCOW2 SHA1 hash. No VM files; snapshots forbidden.
 
 ---
 
